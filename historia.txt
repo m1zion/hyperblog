@@ -1,3 +1,5 @@
-This is the history of github, to add the code comman in git we have to create a .bash_profile file and 
+This is the history of github, to add the code command in git we have to create a .bash_profile file and 
 add the next command 
 alias code=’cmd //C code $*’
+
+Now we are taking the 11th class and make a new change
