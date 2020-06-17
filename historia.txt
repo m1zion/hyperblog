@@ -3,3 +3,4 @@ add the next command
 alias code=’cmd //C code $*’
 
 Now we are taking the 11th class and make a new change
+2th chane from 11th class
